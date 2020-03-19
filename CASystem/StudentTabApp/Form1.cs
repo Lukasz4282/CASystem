@@ -153,7 +153,7 @@ namespace StudentTabApp
         //It will read and write from: C:\Users\ldebi\Desktop\StudentTabApp\StudentTabAppstudents, this path is just a temp file that it needs for some reason
 
 
-        private const string path = @"C:\Users\ldebi\Desktop\CASystem\CAFile.txt"; //Change this
+        private const string path = @"C:\Users\ldebi\Desktop\CASystem-master\CAFile.txt"; //Change this
 
         private void btnSaveToFile_Click(object sender, EventArgs e)
         {

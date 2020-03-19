@@ -12,7 +12,7 @@ namespace StudentTabApp
 
     public static class WeekCAFile
     {
-        private const string path = @"C:\Users\ldebi\Desktop\CASystem\CAFile.txt"; //Change this
+        private const string path = @"C:\Users\ldebi\Desktop\CASystem-master\CAFile.txt"; //Change this
 
         public static void SetSemesterCA(List<WeekCA> Week)
         {

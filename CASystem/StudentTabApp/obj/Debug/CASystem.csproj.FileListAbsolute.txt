@@ -18,3 +18,13 @@ C:\Users\ldebi\Desktop\CASystem\CASystem\StudentTabApp\obj\Debug\CASystem.csproj
 C:\Users\ldebi\Desktop\CASystem\CASystem\StudentTabApp\obj\Debug\CASystem.csproj.CoreCompileInputs.cache
 C:\Users\ldebi\Desktop\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.exe
 C:\Users\ldebi\Desktop\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.pdb
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\bin\Debug\StudentTabApp.exe.config
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\bin\Debug\StudentTabApp.exe
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\bin\Debug\StudentTabApp.pdb
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\CASystem.csprojAssemblyReference.cache
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.Form1.resources
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.Properties.Resources.resources
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\CASystem.csproj.GenerateResource.cache
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\CASystem.csproj.CoreCompileInputs.cache
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.exe
+C:\Users\ldebi\Documents\GitHub\CASystem\CASystem\StudentTabApp\obj\Debug\StudentTabApp.pdb
