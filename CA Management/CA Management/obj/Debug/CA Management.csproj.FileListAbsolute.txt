@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\CA Management\CA Management\bin\Debug\CA Management.exe.config
+C:\Users\asus\Desktop\CA Management\CA Management\bin\Debug\CA Management.exe
+C:\Users\asus\Desktop\CA Management\CA Management\bin\Debug\CA Management.pdb
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmCA.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmCourse.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmLect.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmMain.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmModules.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.frmStudent.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA_Management.Properties.Resources.resources
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA Management.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA Management.exe
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA Management.pdb
+C:\Users\asus\Desktop\CA Management\CA Management\obj\Debug\CA Management.csprojAssemblyReference.cache
