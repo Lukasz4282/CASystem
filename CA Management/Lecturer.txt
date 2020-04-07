@@ -1,0 +1,6 @@
+L01, Elizabeth, Bourke, Liz.Bourke@lit.ie, SD1, ISD2
+L02, Desmond, O'Carrel, Dez.OCarrell@lit.ie, SD1, SD2
+L03, Mike, O'COnnel, Mike.OCOnnell@lit.ie, Networking, SD1, SD2
+L04, James, Fernell, James.Fernell@lit.ie, Networking, SD2
+L05, Gerry, Guaine, Gerry.Guaine@lit.ie, SD2
+L06, Elaine, Tyaine, Elaine.Tyaine@lit.ie, SD2

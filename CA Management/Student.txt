@@ -1,0 +1,10 @@
+Kate, Ferris, K001, K001@lit.ie, SD1, OOTAP, PROB SOL, COM MATH
+Faith, Slate, K002, K002@lit.ie, SD1, OOTAP, PROB SOL, COM MATH
+Fergus, Kennedy, K003, K003@lit.ie, SD1, OOTAP, PROB SOL, COM MATH
+Blaze, Frankilin, K004, K004@lit.ie, SD2, APP DEV, RTES, DDS,NETSYS
+Nike, Sprant, K005, K005@lit.ie, SD2, APP DEV, RTES, DDS,NETSYS
+Fred, Kooper, K006, K006@lit.ie, SD2, APP DEV, RTES, DDS,NETSYS
+Bass, Smith, K007, K007@lit.ie, ISD2, APP DEV, COM MATH
+Chance, Split, K008, K008@lit.ie, ISD2, APP DEV, COM MATH
+Carlson, Kent, K009, K009@lit.ie, NETWORK, NETSYS, COM MATH
+Ben, Xena, K010, K010@lit.ie, NETWORK, NETSYS, COM MATH
